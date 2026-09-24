@@ -1,0 +1,47 @@
+{
+  "0.0": {
+    "mean_migration": 10.06518365060692,
+    "mean_latency_norm": 0.30853434619786696,
+    "mean_load_std": 0.06278040620924445
+  },
+  "0.01": {
+    "mean_migration": 9.820614956390342,
+    "mean_latency_norm": 0.30931016296038183,
+    "mean_load_std": 0.06621822321751522
+  },
+  "0.05": {
+    "mean_migration": 8.310070783525585,
+    "mean_latency_norm": 0.3748845515158278,
+    "mean_load_std": 0.09557212160612269
+  },
+  "0.1": {
+    "mean_migration": 6.178595047454279,
+    "mean_latency_norm": 0.5899807820160967,
+    "mean_load_std": 0.10127400126043304
+  },
+  "0.15": {
+    "mean_migration": 3.7400937641576695,
+    "mean_latency_norm": 0.8077066125856301,
+    "mean_load_std": 0.1163001071959098
+  },
+  "0.25": {
+    "mean_migration": 1.3937818802997186,
+    "mean_latency_norm": 0.921882026598729,
+    "mean_load_std": 0.16371238923131584
+  },
+  "0.5": {
+    "mean_migration": 1.007411549784091,
+    "mean_latency_norm": 0.9216300557476955,
+    "mean_load_std": 0.19622466711241696
+  },
+  "1.0": {
+    "mean_migration": 0.8659901935467815,
+    "mean_latency_norm": 0.9345893179239475,
+    "mean_load_std": 0.23560383806607793
+  },
+  "2.0": {
+    "mean_migration": 0.8659901935467815,
+    "mean_latency_norm": 0.9368597811382939,
+    "mean_load_std": 0.24849069166041088
+  }
+}

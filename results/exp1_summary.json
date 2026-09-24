@@ -1,0 +1,68 @@
+{
+  "proposed_fixed": {
+    "u_deg_before": 0.5002469415381395,
+    "u_deg_after": 0.2499903722266225,
+    "pct_change": -50.02660656795583,
+    "mean_migration": 3.8471741933008525,
+    "mean_latency_norm": 0.797741111593331,
+    "mean_load_std": 0.10282241660965401,
+    "mean_stress_exposure": 71.7313610622181,
+    "mean_solve_time_ms": 25.51403045654297,
+    "mean_energy_norm": 0.0021563099017705314
+  },
+  "proposed_adaptive": {
+    "u_deg_before": 0.5032832348570355,
+    "u_deg_after": 0.4883150189798805,
+    "pct_change": -2.9741137475813093,
+    "mean_migration": 1.6902542622587098,
+    "mean_latency_norm": 0.9125617630807465,
+    "mean_load_std": 0.10916583186173807,
+    "mean_stress_exposure": 78.11394355258933,
+    "mean_solve_time_ms": 22.870492935180664,
+    "mean_energy_norm": 0.002142153334744019
+  },
+  "no_reg": {
+    "u_deg_before": 0.41736839002987125,
+    "u_deg_after": 0.42200210464240284,
+    "pct_change": 1.1102217425234226,
+    "mean_migration": 9.90080537121136,
+    "mean_latency_norm": 0.2979453854022439,
+    "mean_load_std": 0.05066674556003463,
+    "mean_stress_exposure": 76.46748256265971,
+    "mean_solve_time_ms": 23.277974128723145,
+    "mean_energy_norm": 0.002053966333288249
+  },
+  "round_robin": {
+    "u_deg_before": 0.3620905900162023,
+    "u_deg_after": 0.4193051488076418,
+    "pct_change": 15.801172515662266,
+    "mean_migration": 10.583574872402462,
+    "mean_latency_norm": 0.9907554695099619,
+    "mean_load_std": 0.0666414014401675,
+    "mean_stress_exposure": 76.43630266179359,
+    "mean_solve_time_ms": 0.0,
+    "mean_energy_norm": 0.0020740010684281805
+  },
+  "greedy": {
+    "u_deg_before": 0.37902865640528727,
+    "u_deg_after": 0.3908537953847874,
+    "pct_change": 3.119853546602486,
+    "mean_migration": 9.99748691657273,
+    "mean_latency_norm": 0.9772297784335228,
+    "mean_load_std": 0.004522361970431278,
+    "mean_stress_exposure": 75.83954156100779,
+    "mean_solve_time_ms": 0.0,
+    "mean_energy_norm": 0.001967601195535439
+  },
+  "crsi_threshold": {
+    "u_deg_before": 0.37902865640528727,
+    "u_deg_after": 0.0,
+    "pct_change": -99.99999999999999,
+    "mean_migration": 9.935204650815082,
+    "mean_latency_norm": 1.0165410554432408,
+    "mean_load_std": 0.07562924116257401,
+    "mean_stress_exposure": 65.56751919013475,
+    "mean_solve_time_ms": 0.0,
+    "mean_energy_norm": 0.002088232470929279
+  }
+}

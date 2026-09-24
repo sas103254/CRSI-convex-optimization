@@ -1,0 +1,38 @@
+{
+  "proposed": {
+    "u_deg_before": 0.3229793725201454,
+    "u_deg_after": 0.22580305936468517,
+    "pct_change": -30.087467319418053,
+    "mean_migration": 8.387665519047655,
+    "mean_latency_norm": 0.6846139862020308,
+    "mean_load_std": 0.12648500878752633,
+    "mean_stress_exposure": 216.69946521992347
+  },
+  "round_robin": {
+    "u_deg_before": 0.39696338217222316,
+    "u_deg_after": 0.3820696711556738,
+    "pct_change": -3.7519105503005035,
+    "mean_migration": 19.23054663810793,
+    "mean_latency_norm": 0.983985615599204,
+    "mean_load_std": 0.09193548005542704,
+    "mean_stress_exposure": 224.04198273508888
+  },
+  "greedy": {
+    "u_deg_before": 0.4560747345095738,
+    "u_deg_after": 0.460743958275041,
+    "pct_change": 1.0237847905537014,
+    "mean_migration": 18.774325604815992,
+    "mean_latency_norm": 0.9796132970642183,
+    "mean_load_std": 0.0034952318168784847,
+    "mean_stress_exposure": 225.60481244769488
+  },
+  "crsi_threshold": {
+    "u_deg_before": 0.4560747345095738,
+    "u_deg_after": 0.0,
+    "pct_change": -100.0,
+    "mean_migration": 18.857479653468488,
+    "mean_latency_norm": 0.9933815922946774,
+    "mean_load_std": 0.049929004505790534,
+    "mean_stress_exposure": 210.56823293386464
+  }
+}
